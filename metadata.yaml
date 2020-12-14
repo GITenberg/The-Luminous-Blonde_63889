@@ -1,5 +1,5 @@
 _repo: The-Luminous-Blonde_63889
-_version: 0.1.0
+_version: 0.2.0
 contributor:
   illustrator:
     agent_name: Freas, Kelly
@@ -9,6 +9,9 @@ contributor:
     gutenberg_agent_id: '8302'
     url: http://www.gutenberg.org/2009/agents/8302
     wikipedia: http://en.wikipedia.org/wiki/Frank_Kelly_Freas
+covers:
+- cover_type: archival
+  image_path: 63889-h/images/cover.jpg
 creator:
   author:
     agent_name: Howard, Hayden
@@ -18,6 +21,8 @@ creator:
     gutenberg_agent_id: '51189'
     url: http://www.gutenberg.org/2009/agents/51189
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/63889#The-Luminous-Blonde
 gutenberg_issued: '2020-11-27'
 gutenberg_type: Text
 identifiers:
