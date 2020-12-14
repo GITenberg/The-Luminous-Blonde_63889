@@ -1,0 +1,38 @@
+_repo: The-Luminous-Blonde_63889
+_version: 0.0.1
+contributor:
+  illustrator:
+    agent_name: Freas, Kelly
+    alias: Freas, Frank Kelly
+    birthdate: 1922
+    deathdate: 2005
+    gutenberg_agent_id: '8302'
+    url: http://www.gutenberg.org/2009/agents/8302
+    wikipedia: http://en.wikipedia.org/wiki/Frank_Kelly_Freas
+creator:
+  author:
+    agent_name: Howard, Hayden
+    alias: Howard, John Hayden
+    birthdate: 1925
+    deathdate: 2014
+    gutenberg_agent_id: '51189'
+    url: http://www.gutenberg.org/2009/agents/51189
+description: ''
+gutenberg_issued: '2020-11-27'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '63889'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Science fiction'
+- !lcc 'PS'
+- !lcsh 'Short stories'
+- !lcsh 'Husband and wife -- Fiction'
+- !lcsh 'Space ships -- Fiction'
+- !lcsh 'Space travelers -- Fiction'
+- GITenberg
+title: The Luminous Blonde
+url: http://www.gutenberg.org/ebooks/63889
